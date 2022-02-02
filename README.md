@@ -11,3 +11,9 @@ VIJAYAWADA INTERNATIONAL AIRPORT
 3. Tell him to move forward for 500m, then you can see Nalanda college on the right side
 4. Drop there and move toward Nalanda college
 5. When you reached Nalanda college there you can see Eat Street board, that means you reached.
+
+* Cola
+* Rayalaseema NatuKodi Biryani
+* RagiSangati NatuKodi Pulusu
+* Punugulu
+* Masala Bajji
