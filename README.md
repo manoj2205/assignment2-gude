@@ -17,7 +17,7 @@ VIJAYAWADA INTERNATIONAL AIRPORT
 * RagiSangati NatuKodi Pulusu
 * Punugulu
 * Bajji
- * Masala Bajji
- * Vankaya Bajji
- * Chilli Bajji
- * Egg Bajji
+    * Masala Bajji
+    * Vankaya Bajji
+    * Chilli Bajji
+    * Egg Bajji
