@@ -34,3 +34,30 @@ VIJAYAWADA INTERNATIONAL AIRPORT
 > Never Giveup! - *MANOJ_KUMAR_GUDE*
 
 > Sometimes life hits you in the head with a brick. Don't lose faith. - *Steve_Jobs*
+---
+# Code_Fencing
+> The convex hull may be defined either as the intersection of all convex sets containing a given subset of a Euclidean space, or equivalently as the set of all convex combinations of points in the subset. 
+[Geometry Convex hull](https://en.wikipedia.org/wiki/Convex_hull)
+``` 
+const int maxn = 2e5;
+
+point line[4 * maxn];
+
+void add_line(point nw, int v = 1, int l = 0, int r = maxn) {
+    int m = (l + r) / 2;
+    bool lef = f(nw, l) < f(line[v], l);
+    bool mid = f(nw, m) < f(line[v], m);
+    if(mid) {
+        swap(line[v], nw);
+    }
+    if(r - l == 1) {
+        return;
+    } else if(lef != mid) {
+        add_line(nw, 2 * v, l, m);
+    } else {
+        add_line(nw, 2 * v + 1, m, r);
+    }
+}
+
+```
+<https://cp-algorithms.com/geometry/convex_hull_trick.html>
