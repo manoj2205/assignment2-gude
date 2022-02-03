@@ -29,3 +29,8 @@ VIJAYAWADA INTERNATIONAL AIRPORT
 | Batminton | University_Rec | $20 |
 | Cricket | University_PlayGround | $50 |
 | Basket_Ball | University_Rec| $25 |
+---
+# Pithy Quotes
+> Never Giveup! - *MANOJ_KUMAR_GUDE*
+
+> Sometimes life hits you in the head with a brick. Don't lose faith. - *Steve_Jobs*
