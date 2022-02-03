@@ -22,3 +22,10 @@ VIJAYAWADA INTERNATIONAL AIRPORT
     * Chilli Bajji
     * Egg Bajji
 [AboutMe](https://github.com/manoj2205/assignment2-gude/blob/main/AboutMe.md)
+---
+| Sport | Location | Personel_Equipment_Charge |
+| ----- | -------- | ------------------------- |
+| Volley_Ball | University_Rec | $10 |
+| Batminton | University_Rec | $20 |
+| Cricket | University_PlayGround | $50 |
+| Basket_Ball | University_Rec| $25 |
