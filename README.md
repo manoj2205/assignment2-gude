@@ -16,4 +16,8 @@ VIJAYAWADA INTERNATIONAL AIRPORT
 * Rayalaseema NatuKodi Biryani
 * RagiSangati NatuKodi Pulusu
 * Punugulu
-* Masala Bajji
+* Bajji
+ * Masala Bajji
+ * Vankaya Bajji
+ * Chilli Bajji
+ * Egg Bajji
